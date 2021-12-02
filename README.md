@@ -24,7 +24,7 @@ any time.
 
 ## Setting Up
 ### 1. Clone the Repository:
-`$ git clone https://github.com/dappuniversity/yield-aggregator.git`
+`$ git clone https://github.com/DeograciousAggrey/Yield-Aggregator.git`
 
 ### 2. Install Dependencies:
 ```
